@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm qingwave 👋
 
 <!--
 **qingwave/qingwave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on CloudNative, kubernetes, prometheus...
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=qingwave&include_all_commits=true&count_private=true&hide_title=true&bg_color=ffffff&show_icons=true&icon_color=1E90FF&text_color=000000" />
