@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 Working on CloudNative, kubernetes, prometheus...
 - ✍️ [Blogger](https://qingwave.github.io/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=qingwave&include_all_commits=true&count_private=true&hide_title=true&bg_color=ffffff&show_icons=true&icon_color=1E90FF&text_color=000000" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=qingwave&include_all_commits=true&count_private=true&hide_title=true&bg_color=ffffff&show_icons=true&icon_color=1E90FF&text_color=000000" /> -->
